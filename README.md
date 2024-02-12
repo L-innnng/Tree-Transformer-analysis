@@ -1,5 +1,5 @@
 # Tree Transformer's Disambiguation Ability of Prepositional Phrase Attachment and Garden Path Effects
-This repository contains the source code from the papers "Tree Transformer: Integrating Tree Structures into Self-Attention" and "Constituent Parsing as Sequence Labeling". 
+This repository contains the source code from the papers ["Tree Transformer: Integrating Tree Structures into Self-Attention]https://arxiv.org/abs/1909.06639) and ["Constituent Parsing as Sequence Labeling"](https://arxiv.org/abs/1810.08994). 
 
 # Experiments on the Tree Transformer model
 With `code/models/Tree-Transformer-master/main.py`, we can easily run the following tasks:
