@@ -18,6 +18,6 @@ With code/parsing_analysis/Tree_Transformer_parsing.py, we can get the results o
 
 **Additional resources** You also might need to download the [pretrained models](http://grupolys.org/software/tree2labels-emnlp2018-resources/models-EMNLP2018.zip) and/or the [pretrained word embeddings](http://grupolys.org/software/tree2labels-emnlp2018-resources/embeddings-EMNLP2018.zip) used in this work to the folder tree2labels-master.
 
-First, using `code/models/tree2labels-master/dataset.py` to transform parenthesized trees into a sequence of labels.
-Second, using `code/models/tree2labels-master/main.py` to parse PP attachment ambiguity.
-Third,using `code/parsing_analysis/BiLSTM_parsing.py` to get the results of parsing analysis for the pretrained BiLSTM model.
+- First, using `code/models/tree2labels-master/dataset.py` to transform parenthesized trees into a sequence of labels.
+- Second, using `code/models/tree2labels-master/main.py` to parse PP attachment ambiguity.
+- Third,using `code/parsing_analysis/BiLSTM_parsing.py` to get the results of parsing analysis for the pretrained BiLSTM model.
