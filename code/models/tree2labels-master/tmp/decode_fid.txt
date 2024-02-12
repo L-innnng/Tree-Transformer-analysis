@@ -1,0 +1,8 @@
+
+### Decode ###
+status=decode
+raw_dir=data/PP_ambiguity/test.seq_lu
+decode_dir=code/models/tree2labels-master/tmp/ptb-bilstm2-chlstm-glove.output
+dset_dir=code/models/tree2labels-master/models/ptb/enriched/bilstm/ptb-bilstm2-chlstm-glove.dset
+load_model_dir=code/models/tree2labels-master/models/ptb/enriched/bilstm/ptb-bilstm2-chlstm-glove.model
+gpu=False
