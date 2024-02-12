@@ -4,7 +4,7 @@ This repository contains the source code from the paper "Tree Transformer's Disa
 # Experiments on the Tree Transformer model
 With `code/models/Tree-Transformer-master/main.py`, we can easily run the following tasks:
 
-- `-get_data` : get raw penn treebank data for training and testing
+- `-get_data` : get preprossed penn treebank data for training and testing
 - `-train`: train the  Tree Transformer model
 - `-test`: test the  Tree Transformer model
 - `-PP_ambiguity`: parse PP attachment ambiguity
