@@ -1,6 +1,10 @@
 # Tree Transformer's Disambiguation Ability of Prepositional Phrase Attachment and Garden Path Effects
 This repository contains the source code from the paper "Tree Transformer's Disambiguation Ability of Prepositional Phrase Attachment and Garden Path Effects".
 
+# Generate the novel prepositional phrase (PP) attachment ambiguity data
+
+With `code/data_generation/generate_sentences.py`, the novel pp attachment ambiguity data can be generated.
+
 # Experiments on the Tree Transformer model
 With `code/models/Tree-Transformer-master/main.py`, we can easily run the following tasks:
 
