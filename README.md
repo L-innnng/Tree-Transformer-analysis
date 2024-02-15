@@ -3,7 +3,7 @@ This repository contains the source code from the paper "Tree Transformer's Disa
 
 # Generate the novel prepositional phrase (PP) attachment ambiguity data
 
-With `code/data_generation/generate_sentences.py`, the novel pp attachment ambiguity data can be generated in `data/PP_ambiguity/pp_sentences.txt`.
+With `code/data_generation/generate_sentences.py`, the novel pp attachment ambiguity data can be generated in `data/PP_ambiguity/generated_PP_data.txt`.
 
 # Experiments on the Tree Transformer model
 With `code/models/Tree-Transformer-master/main.py`, we can easily run the following tasks:
